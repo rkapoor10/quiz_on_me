@@ -8,4 +8,4 @@ TECH STACK :
 3.Repl.it  
 4.Chalk
 
-[click here to play]{https://replit.com/@RitikKapoor/quizonme?embed=1&output=1#index.js}
+[click here to play](https://replit.com/@RitikKapoor/quizonme?embed=1&output=1#index.js)

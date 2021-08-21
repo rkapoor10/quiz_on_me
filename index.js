@@ -10,11 +10,11 @@ var user = readlineSync.question("What's your Name ? ");
 console.log("\n")
 console.log("Hi",chalk.redBright(user)+"!");
 if(user==="Ritik"||user==="ritik"){
-  console.log("Oh WOW!! same name same pinch 😂")
+  console.log("😂 Oh WOW!! same name same pinch 😂")
 }
 console.log("Welcome to the Quiz");
 console.log(chalk.redBright("RULES:"), "Enter the option number")
-
+console.log("\n")
 
 
 
